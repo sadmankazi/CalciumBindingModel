@@ -8,6 +8,8 @@ Speciation can be calculated according to the methods shows by Professor Stephen
 
 ![Test Image 2](https://github.com/sadmankazi/CalciumBindingModel/blob/master/Figures/speciation.svg)
 
+Degree of ionization = (10<sup>-pH, Water</sup> - 10<sup>-pH, Sodium Citrate</sup>)/[Sodium Citrate]
+
 Total Ionization = α<sup>3-</sup>  + α <sup>2-</sup> + α<sup>1-</sup>
 
 ![Test Image 3](https://github.com/sadmankazi/CalciumBindingModel/blob/master/Figures/titration.svg)
