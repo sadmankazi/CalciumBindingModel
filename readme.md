@@ -30,4 +30,4 @@ Here, K<sup>3-</sup> and K<sup>2-</sup> are the individual equilibrium associati
 
 Chelation is strongly affected by pH and the ratio of chelates to chelator. These two parameters are already accounted for in the equilibriums described above. However, those equilibriums do not take into account the absolute concentration of species or the salt concentration in the system.  To account for these features we need to form a more empirical model.
 
-![Test Image 4](https://github.com/sadmankazi/CalciumBindingModel/blob/master/Figures/examplechelation)
+![Test Image 4](https://github.com/sadmankazi/CalciumBindingModel/blob/master/Figures/examplechelation.svg)
